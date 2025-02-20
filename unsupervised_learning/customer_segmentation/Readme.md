@@ -1,4 +1,4 @@
-# Quelques explication 
+# Quelques explications
 
 ## Les scripts : 
  * `kmeans_clustering.py` : Ce script implémente l'algorithme K-Means et inclut la méthode du coude et la visualisation des clusters. 
